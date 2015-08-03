@@ -2,12 +2,19 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://chloesrecipes.org/</loc>
+    <loc>http://localhost:1313/</loc>
+    <lastmod>2015-08-02T20:40:29-07:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://chloesrecipes.org/ricebowl/</loc>
+    <loc>http://localhost:1313/recipes/ricebowl/</loc>
+    <lastmod>2015-08-02T20:40:29-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/about/</loc>
+    <lastmod>2015-08-02T20:34:31-07:00</lastmod>
   </url>
   
 </urlset>

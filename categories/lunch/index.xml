@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Lunch on Chloe&#39;s Recipe</title>
+    <link>http://localhost:1313/categories/lunch/</link>
+    <description>Recent content in Lunch on Chloe&#39;s Recipe</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 02 Aug 2015 20:40:29 -0700</lastBuildDate>
+    <atom:link href="http://localhost:1313/categories/lunch/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Rice Bowl</title>
+      <link>http://localhost:1313/recipes/ricebowl/</link>
+      <pubDate>Sun, 02 Aug 2015 20:40:29 -0700</pubDate>
+      
+      <guid>http://localhost:1313/recipes/ricebowl/</guid>
+      <description>
+
+&lt;h2 id=&#34;ingredients:9e0785126ed4f644450d2e1c3261278f&#34;&gt;Ingredients&lt;/h2&gt;
+
+&lt;ol&gt;
+&lt;li&gt;Rice&lt;/li&gt;
+&lt;li&gt;Cheddar Cheese&lt;/li&gt;
+&lt;li&gt;Ketchup&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h2 id=&#34;steps:9e0785126ed4f644450d2e1c3261278f&#34;&gt;Steps&lt;/h2&gt;
+
+&lt;ol&gt;
+&lt;li&gt;Warm up cooked Rice.&lt;/li&gt;
+&lt;li&gt;Sprinkle cheddar cheese.&lt;/li&gt;
+&lt;li&gt;Put on as much Ketchup as you’d like.&lt;/li&gt;
+&lt;li&gt;Stir&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;Time to eat!&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
