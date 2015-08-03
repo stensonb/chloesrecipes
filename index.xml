@@ -1,18 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Hugo Blog Template for GitHub Pages</title>
-    <link>http://stensonb.github.io/chloesrecipes/</link>
-    <description>Recent content on Hugo Blog Template for GitHub Pages</description>
+    <title>Chloe&#39;s Recipe</title>
+    <link>http://chloesrecipes.org/</link>
+    <description>Recent content on Chloe&#39;s Recipe</description>
     <generator>Hugo -- gohugo.io</generator>
-    <atom:link href="http://stensonb.github.io/chloesrecipes/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language>
+    <atom:link href="http://chloesrecipes.org/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title></title>
-      <link>http://stensonb.github.io/chloesrecipes/ricebowl/</link>
+      <link>http://chloesrecipes.org/ricebowl/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://stensonb.github.io/chloesrecipes/ricebowl/</guid>
+      <guid>http://chloesrecipes.org/ricebowl/</guid>
       <description>&lt;p&gt;Rice Bowl&lt;/p&gt;
 
 &lt;p&gt;Ingredients&lt;/p&gt;
