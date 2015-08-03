@@ -1,3 +1,5 @@
 baseurl = "http://chloesrecipes.org/"
 languageCode = "en-us"
 title = "Chloe's Recipe"
+tags = ["cheese", "tomato paste"]
+categories = ["breakfast", "lunch", "dinner", "snack", "dessert"]

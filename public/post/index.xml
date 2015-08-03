@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Chloe&#39;s Recipe</title>
+    <link>http://localhost:1313/post/</link>
+    <description>Recent content in Posts on Chloe&#39;s Recipe</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 02 Aug 2015 20:40:29 -0700</lastBuildDate>
+    <atom:link href="http://localhost:1313/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Rice Bowl</title>
+      <link>http://localhost:1313/post/ricebowl/</link>
+      <pubDate>Sun, 02 Aug 2015 20:40:29 -0700</pubDate>
+      
+      <guid>http://localhost:1313/post/ricebowl/</guid>
+      <description>
+
+&lt;h1 id=&#34;rice-bowl:9e0785126ed4f644450d2e1c3261278f&#34;&gt;Rice Bowl&lt;/h1&gt;
+
+&lt;h2 id=&#34;ingredients:9e0785126ed4f644450d2e1c3261278f&#34;&gt;Ingredients&lt;/h2&gt;
+
+&lt;p&gt;Rice
+Cheddar Cheese
+Ketchup&lt;/p&gt;
+
+&lt;p&gt;Warm up cooked Rice.
+Sprinkle cheddar cheese.
+Put on as much Ketchup as you’d like.
+Stir&lt;/p&gt;
+
+&lt;p&gt;Time to eat!&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
